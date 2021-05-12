@@ -1,4 +1,6 @@
-# G2A Pay module for osCommerce
+# ⚠ This repository is now DEPRECATED and will be deleted after 1st of August 2021. We recommend to use [Zen](https://www.zen.com/) in new projects.
+
+## G2A Pay module for osCommerce
 
 osCommerce provides free eCommerce and online store platform solutions with an active and growing community of store owners and developers worldwide. Over 7.700 add-ons are free to use, and professional development and support services are available through our certified partners to help increase your online sales. G2A PAY has partnered up with osCommerce to let you access over 200 payment methods instantly with a single integration.
 
